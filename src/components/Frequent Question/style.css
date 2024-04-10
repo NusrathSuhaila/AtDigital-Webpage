@@ -1,0 +1,29 @@
+ /* Plus and Minus Icons */
+ .accordion-button.collapsed::after {
+    background-image: none !important; /* Hide Default Bootstrap Arrow Icons */
+    content: '+';
+    font-size: 30px; /* Adjust as needed */
+    color: black; /* Change color as needed */
+    align-content: center;
+  }
+  
+  .accordion-button::after {
+    background-image: none !important;
+    border-radius:0%;
+    content: '-';
+    align-content: center;
+    font-size: 40px; /* Adjust as needed */
+    color: #9747FF; /* Change color as needed */
+    }
+  
+    .accordion-item{
+      padding-bottom: 10px;
+      border: none;  
+    }
+    
+  #accordionExample{
+    width: 846px;
+    height: 392px;
+  }
+  
+ 
