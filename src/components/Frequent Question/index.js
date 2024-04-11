@@ -1,5 +1,4 @@
 import React from "react";
-import { FaPlus, FaMinus } from "react-icons/fa";
 import './style.css'
 
 const About = () => {
