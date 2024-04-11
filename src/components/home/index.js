@@ -30,7 +30,7 @@ const Home = () => {
             padding: "8px 2px 16px 20px",
             backgroundImage: "linear-gradient(to right, #09d396 30%, #1CBDDD 45%)",
             opacity: 1, // Figma scale opacity
-            borderRadius: "0px", // Rounded corners
+            borderRadius: "0px", 
           }}
         >
           <p
